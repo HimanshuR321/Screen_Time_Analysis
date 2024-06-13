@@ -9,3 +9,9 @@ This project analyzes screen time data from various apps. It uses a dataset that
 - **Python_Code**: The main script for loading the dataset, performing initial data analysis, and creating visualizations.
 - **Screen-Time-Dataset**: The CSV file containing the screen time data.
 - **Licence**: Licensing information for the project.  
+
+## License
+This work is licensed under the MIT License. For more details, see the LICENSE file.
+
+## Notice
+If you find any instances of this work being copied or used without proper attribution, please contact us at [himanshuraj3696@gmail.com].
